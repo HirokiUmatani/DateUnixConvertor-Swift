@@ -1,4 +1,4 @@
-### DateUnixConvertor-swift [![GitHub license](https://img.shields.io/badge/LICENSE-MIT%20LICENSE-blue.svg)](https://github.com/HirokiUmatani/DateUnixConvertor-swift/LICENSE) [![CocoaPods](https://img.shields.io/badge/platform-ios-lightgrey.svg)](https://cocoapods.org/pods/DateUnixConvertor-swift) [![CocoaPods](https://img.shields.io/cocoapods/v/DateUnixConvertor-swift.svg)](https://cocoapods.org/pods/DateUnixConvertor-swift)  
+### DateUnixConvertor-Swift [![GitHub license](https://img.shields.io/badge/LICENSE-MIT%20LICENSE-blue.svg)](https://github.com/HirokiUmatani/DateUnixConvertor-Swift/LICENSE) [![CocoaPods](https://img.shields.io/badge/platform-ios-lightgrey.svg)](https://cocoapods.org/pods/DateUnixConvertor-Swift) [![CocoaPods](https://img.shields.io/cocoapods/v/DateUnixConvertor-Swift.svg)](https://cocoapods.org/pods/DateUnixConvertor-Swift)  
 
 ====
 ### Overview
@@ -22,6 +22,12 @@ end
 </code>
 
 ### Usage
+
+#### □ Import
+
+<code>
+import DateUnixConvertor_Swift
+</code>
 
 #### □ sample
 ```
