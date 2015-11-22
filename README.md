@@ -14,7 +14,7 @@ UnixTime -> NSDate
 
 ### Installation
 <code>
-pod 'DateUnixConvertor-swift'
+pod 'DateUnixConvertor-Swift'
 </code>
 
 ### Usage
