@@ -14,10 +14,10 @@ UnixTime -> NSDate
 
 ### Installation
 <code>
-platform :ios, '8.0'
-use_frameworks!
-target 'YOUR_PROJECT_NAME' do
-pod "DateUnixConvertor-Swift"
+platform :ios, '8.0'  
+use_frameworks!  
+target 'YOUR_PROJECT_NAME' do  
+pod "DateUnixConvertor-Swift"  
 end
 </code>
 
