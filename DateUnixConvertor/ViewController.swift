@@ -19,6 +19,7 @@ class ViewController: UIViewController
         let NOW_DATE = NSDate()
         let OUTPUT_FORMAT = "yyyy-MM-dd HH:mm:ss.SSS"
         
+        
         let date_string:String = DateUnixConvertor.convertStringFromDate(NOW_DATE, format: OUTPUT_FORMAT)
         
         NSLog("date -> string :%@",date_string);
