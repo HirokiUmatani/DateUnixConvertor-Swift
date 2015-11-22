@@ -69,10 +69,10 @@ import DateUnixConvertor_Swift
 ```
 
 ### Documents
-[library document](http://cocoadocs.org/docsets/DateUnixConvertor.swift)
+[library document](http://cocoadocs.org/docsets/DateUnixConvertor-Swift)
 
 ### Licence
-[MIT](https://github.com/HirokiUmatani/DateUnixConvertor.swift/blob/master/LICENSE)
+[MIT](https://github.com/HirokiUmatani/DateUnixConvertor-Swift/blob/master/LICENSE)
 
 ### Author
 [Hiroki Umatani](https://github.com/HirokiUmatani)
